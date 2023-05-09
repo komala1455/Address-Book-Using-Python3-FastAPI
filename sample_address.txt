@@ -1,0 +1,45 @@
+{
+    "name": "Hebbal",
+    "street": "9th Cross",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip_code": "560043",
+    "latitude": "13.0346325",
+    "longitude": "77.5930233"
+}
+
+
+{
+    "name": "Silk Board",
+    "street": "15th Cross",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip_code": "560041",
+    "latitude": "13.0347971",
+    "longitude": "77.5157719"
+}
+
+{
+    "name": "IKEA",
+    "street": "2nd Main Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip_code": "560024",
+    "latitude": "13.0485324",
+    "longitude": "77.4230039"
+}
+
+{
+    "name": "Bengaluru Airport",
+    "street": "3rd Main Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip_code": "560031",
+    "latitude": "13.2019118",
+    "longitude": "77.6809595"
+}
+
+My location for searching address
+13.026617,77.635154
+
+Search with address in kms like 1,5,10,50 etc
